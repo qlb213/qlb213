@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm * qlb'95</h1>
 <h3 align="center">Hello, I am French, I am a beginner in computer science and programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lzqlb&label=Profile%20views&color=0e75b6&style=flat" alt="lzqlb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qlb213&label=Profile%20views&color=0e75b6&style=flat" alt="lzqlb" /> </p>
 
 - 🔭 I’m currently working on [✨・Weria Protect](https://discord.com/api/oauth2/authorize?client_id=985652327409147944&permissions=8&scope=bot)
 
